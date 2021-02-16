@@ -51,11 +51,12 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 Create `.env` file then edit it with your settings. You will need:
 
-- MONGO_URL
-- PUSHER_APP_ID
-- PUSHER_KEY
-- PUSHER_SECRET
-- PUSHER_CLUSTER
+- REACT_APP_FIREBASE_API_KEY
+- REACT_APP_FIREBASE_AUTH_DOMAIN
+- REACT_APP_FIREBASE_PROJECT_ID
+- REACT_APP_FIREBASE_STORAGE_BUCKET
+- REACT_APP_FIREBASE_MESSAGING_SENDER_ID
+- REACT_APP_FIREBASE_APP_ID
 
 ## Running the project
 
