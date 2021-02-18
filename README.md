@@ -1,4 +1,4 @@
-# WhatsApp Clone Backend
+# LinkedIn Clone
 
 Clone of the LinkedIn that mimics the UI of LinkedIn. Built with React, Redux, Material UI and Firebase. User can add post the message and it appreas as a feed. This project also includes authentication module implemented with Firebase. See demo here: https://linkedin-clone-a3b67.web.app/
 
@@ -43,8 +43,8 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/gunjanmodi/whatsapp-backend.git
-    $ cd whatsapp-backend
+    $ git clone https://github.com/gunjanmodi/linkedin-clone.git
+    $ cd linkedin-clone
     $ npm install
 
 ## Configure app
